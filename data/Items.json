@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"Единственная целая струна лютни. Сделана из кишок \nживотных. Что-то вам напоминает...","effects":[],"hitType":0,"iconIndex":0,"itypeId":2,"name":"Струна Лютни","note":"","occasion":2,"price":0,"repeats":1,"scope":11,"speed":0,"successRate":100,"tpGain":0},
+{"id":2,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"Маленький ключ. Он что-то открывает","effects":[],"hitType":0,"iconIndex":195,"itypeId":1,"name":"Ключ","note":"","occasion":0,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+{"id":3,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"Детская игрушка. Ботинки вырезаны из дерева, розовое\nплатье и короткие волосы из шерсти животного","effects":[],"hitType":0,"iconIndex":176,"itypeId":2,"name":"Деревянная кукла","note":"","occasion":0,"price":0,"repeats":1,"scope":11,"speed":0,"successRate":100,"tpGain":0},
+{"id":4,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"","type":0,"variance":20},"description":"Красное платье с корсетом и пышными рукавами","effects":[],"hitType":0,"iconIndex":176,"itypeId":2,"name":"Платье","note":"","occasion":0,"price":0,"repeats":1,"scope":11,"speed":0,"successRate":100,"tpGain":0}
+]
