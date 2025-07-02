@@ -1,0 +1,13 @@
+{
+    "name": "",
+    "main": "index.html",
+    "js-flags": "--expose-gc",
+    "window": {
+        "title": "Experiment N3",
+        "toolbar": false,
+        "kiosk": true,
+        "width": 1920,
+        "height": 1080,
+        "icon": "icon/icon.png"
+    }
+}
